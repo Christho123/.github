@@ -1,4 +1,4 @@
-name: Desplegar a GitHub Pages
+name: Deploy HTML to GitHub Pages
 
 on:
   push:
